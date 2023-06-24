@@ -1,5 +1,5 @@
 
-//MovieProject comment
+//MovieProject below import for movie card project....
 //import Movies_App from ./Components/MoviesProject/Movies_App;
 
 import './App.css';
@@ -68,7 +68,7 @@ function App() {
       {/* <button className='btn btn-primary' onClick={btnClick}>Click me</button> */}
       {/* we used this button on summary js file */}
 
-      {/* Movie project */}
+      {/* Movie project  use this below*/}
       {/* <Movies_App /> */}
     </div>
   );
